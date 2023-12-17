@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Isaura Gutiérrez"
   avatar           : "profile.png"
   bio              : "Economist  |  Statiscian"
-  location         : "Location"
+  location         : "Costa Rica"
   employer         :
   email            : isaguti.var26@gmail.com
   uri              :
