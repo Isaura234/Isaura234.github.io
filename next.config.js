@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // output: 'export',
+
   webpack: (config) => {
     /**
      * Critical: prevents " ⨯ ./node_modules/canvas/build/Release/canvas.node
