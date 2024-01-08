@@ -4,7 +4,7 @@ export default function Home() {
       <h1 className="text-5xl font-medium mb-4">Isaura Gutiérrez Vargas</h1>
       <h2 className="text-3xl font-medium mb-10">About me</h2>
       <div className="max-w-prose text-xl">
-        <p>
+        <p style={{ marginBottom: '10px' }}>
           Statistician and Economist.
         </p>
         <p>
@@ -20,3 +20,4 @@ export default function Home() {
     </div>
   );
 }
+
