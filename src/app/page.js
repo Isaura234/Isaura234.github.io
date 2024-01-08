@@ -4,8 +4,9 @@ export default function Home() {
       <h1 className="text-5xl font-medium mb-4">Isaura Gutiérrez Vargas</h1>
       <h2 className="text-3xl font-medium mb-10">About me</h2>
       <div className="max-w-prose text-xl">
-        <p> Statistician and Economist. 
-          My work focuses on data analysis, economic analysis, public economy, and academic research. </p>
+        <p>
+          <strong>My work focuses on data analysis, economic analysis, public economy, and academic research.</strong>
+        </p>
 
         <p className="mb-2">1. I have experience in the development of econometric models 📊🔍📈.</p>
         <p className="mb-2">2. I possess skills in creating specialized visualizations 📊📉📊.</p>
