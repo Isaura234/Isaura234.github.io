@@ -6,15 +6,14 @@ export default function Home() {
       <div className="max-w-prose text-xl">
         <p> Statistician and Economist. 
           My work focuses on data analysis, economic analysis, public economy and academic research. 
-
-1. I have experience in the development of econometric models 📊🔍📈.
-2. I possess skills in creating specialized visualizations 📊📉📊.
-3. I use simulation theory for detailed analysis 🔄💡📊.
-
-4. I apply models for experimental analysis 🧪🔍📈.
-
-5. I have been involved in the development of surveys and sampling 📋📊📝.</p>
+    1. I have experience in the development of econometric models 📊🔍📈.
+    2. I possess skills in creating specialized visualizations 📊📉📊.
+    3. I use simulation theory for detailed analysis 🔄💡📊.
+    4. I apply models for experimental analysis 🧪🔍📈.
+    5. I have been involved in the development of surveys and sampling 📋📊📝.</p>
       </div>
     </div>
   )
+}
+
 }
