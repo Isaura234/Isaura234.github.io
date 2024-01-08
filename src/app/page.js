@@ -9,7 +9,10 @@ export default function Home() {
         <p>
           My work focuses on data analysis, economic analysis, public economy, and academic research.
         <p>
+        <p>
         </p>
+
+        
 
         <p className="mb-2">1. I have experience in the development of econometric models 📊🔍📈.</p>
         <p className="mb-2">2. I possess skills in creating specialized visualizations 📊📉📊.</p>
