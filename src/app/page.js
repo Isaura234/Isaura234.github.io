@@ -6,9 +6,9 @@ export default function Home() {
       <div className="max-w-prose text-xl">
         <p style={{ marginBottom: '10px' }}>
           Statistician and Economist
-        </p>
         <p>
           My work focuses on data analysis, economic analysis, public economy, and academic research.
+        </p>
         </p>
 
         <p className="mb-2">1. I have experience in the development of econometric models 📊🔍📈.</p>
