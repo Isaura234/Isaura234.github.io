@@ -5,7 +5,8 @@ export default function Home() {
       <h2 className="text-3xl font-medium mb-10">About me</h2>
       <div className="max-w-prose text-xl">
         <p>
-          <strong>My work focuses on data analysis, economic analysis, public economy, and academic research.</strong>
+          Statistician and Economist. <br />
+          My work focuses on data analysis, economic analysis, public economy, and academic research.
         </p>
 
         <p className="mb-2">1. I have experience in the development of econometric models 📊🔍📈.</p>
